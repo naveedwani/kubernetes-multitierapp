@@ -1,4 +1,4 @@
-# Kubernetes Multi-Tier Web App (Demo)
+# Kubernetes Multi-Tier Web App 
 
 **Purpose:** Deploys a frontend and backend application in Kubernetes with services and ingress routing. Image names and resource definitions are placeholders.
 
